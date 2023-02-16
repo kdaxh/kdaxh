@@ -11,15 +11,15 @@
 I am Kilala, a:
 
     > MSc. in Data science student 
-        Researching under Machine learning, Geospatial information systems and Visualization 
-            > the services we use, 
-            > the places we explore, 
-            > and the artificial agents we create.
+        Researching under: 
+            > Machine learning, 
+            > Geospatial information systems, 
+            > and Data Visualization.
           
-     > Colombian software developer with experience in 
-        microservices architecture, 
-        web design, databases, and project management, 
-        for private and public sectors.
+     > Full stack developer with experience in
+        Front-end: HTML, CSS and JavaScript,
+        Backend: C++, Flask and Django,
+        Database: MySQL and SQL SERVER.
         
      > Electronics and Telecommunication engineer with experience in 
         microservices architecture, 
@@ -30,8 +30,7 @@ I love to learn about
     * data science, 
     * Machine learning, 
     * Artificial intelligence,
-    * software development,
-    * and human behavior. 
+    * and Computer programming. 
 
 Let's share thoughts about education and inclusive job opportunities in tech!
 
