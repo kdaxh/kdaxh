@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kilala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm Kilala</h1>
+<h3 align="left">I am a highly-motivated and competent collaborator with domain knowledge in IT, computer science, telecommunications, data analysis, machine learning, and artificial intelligence.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
