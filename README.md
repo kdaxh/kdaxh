@@ -22,9 +22,9 @@ I am Kilala, a:
         Database: MySQL and SQL SERVER.
         
      > Electronics and Telecommunication engineer with experience in 
-        microservices architecture, 
-        web design, databases, and project management, 
-        for private and public sectors.
+        Robitics,
+        Data and mobile communication, 
+        Network administration.
 
 I love to learn about 
     * data science, 
