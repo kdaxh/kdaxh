@@ -1,5 +1,6 @@
 <div align="center">
-    <img src ="https://github.com/kdaxh/My-Portfolio/blob/a2042466d323f80ef8d1cef54cd07fec49a0e681/kd-v4.png" />
+    <img src ="https://github.com/kdaxh/My-Portfolio/blob/b19398c76697ea24073451cc80559836ee2cb238/kd-v1.png" />
+    
     
 </div>
 
