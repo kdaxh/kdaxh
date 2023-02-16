@@ -1,16 +1,28 @@
-### Hi there 👋
+I am Kilala, a:
 
-<!--
-**kdaxh/kdaxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    > MSc. in Data science student 
+        Creating tools to analyze human behavior using Spatio-temporal data to improve 
+            > the services we use, 
+            > the places we explore, 
+            > and the artificial agents we create.
+       
+    > Full stack developer with experience in 
+        microservices architecture, 
+        web design, databases, and project management, 
+        for private and public sectors. 
+            
+    > Electronics and Telecommunication Engineer with experience in 
+        microservices architecture, 
+        web design, databases, and project management, 
+        for private and public sectors.
 
-Here are some ideas to get you started:
+I love to learn about 
+    * data science, 
+    * machine learning, 
+    * full stack development,
+    * and human behavior. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Let's share thoughts about education and inclusive job opportunities in tech!
+
+Welcome to my Github profile
