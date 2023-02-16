@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/violetasdev/violetasdev/main/violetasdev_banner.png" alt="violetasdev">
+    <img src ="https://github.com/kdaxh/My-Portfolio/blob/5f4b3264b5d90a194aa483361b03fd2642c9d3ae/kd-v3.png" />
 </div>
 
 <h1 align='center'> Hello! 👋</h1> 
