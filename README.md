@@ -12,10 +12,10 @@
 I am Kilala, a:
 
     > MSc. in Data science student 
-        Researching under: 
-            > Machine learning, 
+        With interest in: 
+            > Machine learning,
             > Geospatial information systems, 
-            > and Data Visualization.
+            > and Artificial intelligence.
           
      > Full stack developer with experience in
         Front-end: HTML, CSS and JavaScript,
@@ -28,7 +28,7 @@ I am Kilala, a:
         and Network administration.
 
 I love to learn about 
-    * data science, 
+    * Data science, 
     * Machine learning, 
     * Artificial intelligence,
     * and Computer programming. 
