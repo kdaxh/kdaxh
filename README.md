@@ -13,8 +13,7 @@ I am Kilala, a:
 
     > MSc. in Data science student 
         With interest in: 
-            > Machine learning,
-            > Geospatial information systems, 
+            > Machine learning, 
             > and Artificial intelligence.
           
      > Full stack developer with experience in
