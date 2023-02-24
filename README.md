@@ -23,7 +23,7 @@ I am Kilala, a:
         
      > Electronics and Telecommunication engineer with experience in 
         Robitics,
-        Data and mobile communication, 
+        Data and Mobile communication, 
         and Network administration.
 
 I love to learn about 
