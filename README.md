@@ -22,9 +22,9 @@ I am Kilala, a:
         Database: MySQL and SQL SERVER.
         
      > Electronics and Telecommunication Engineer with experience in 
-        Robitics,
-        Data and Mobile communication, 
-        and Network administration.
+        ~ Robitics,
+        ~ Data and Mobile communication,
+        ~ Network administration.
 
 I love to learn about 
     ~ Data science, 
