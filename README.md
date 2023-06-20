@@ -17,8 +17,8 @@ I am Kilala, a:
             ~ and Artificial intelligence.
           
      > Full stack developer with experience in
-        Front-end: HTML, CSS and JavaScript.
-        Backend: C++, Flask and Django.
+        Front-end: HTML, CSS and JavaScript,
+        Backend: C++, Flask and Django,
         Database: MySQL and SQL SERVER.
         
      > Electronics and Telecommunication Engineer with experience in 
