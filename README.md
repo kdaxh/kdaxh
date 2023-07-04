@@ -16,7 +16,7 @@ I am Kilala, a:
             ~ Machine learning, 
             ~ and Artificial intelligence.
           
-     > Full stack developer with experience in
+     > Full stack developer with experience in:
         Front-end: HTML, CSS and JavaScript,
         Backend: C++, Flask and Django,
         Database: MySQL and SQL SERVER.
