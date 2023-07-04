@@ -21,12 +21,12 @@ I am Kilala, a:
         Backend: C++, Flask and Django,
         Database: MySQL and SQL SERVER.
         
-     > Electronics and Telecommunication Engineer with experience in 
+     > Electronics and Telecommunication Engineer with experience in:
         ~ Robitics,
         ~ Data and Mobile communication,
         ~ Network administration.
 
-I love to learn about 
+I love to learn about
     ~ Data science, 
     ~ Machine learning, 
     ~ Artificial intelligence,
