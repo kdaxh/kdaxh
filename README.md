@@ -26,7 +26,7 @@ I am Kilala, a:
         ~ Data and Mobile communication,
         ~ Network administration.
 
-I love to learn about
+I love to learn about:
     ~ Data science, 
     ~ Machine learning, 
     ~ Artificial intelligence,
