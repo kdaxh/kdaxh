@@ -4,7 +4,7 @@
     
 </div>
 
-<h1 align='center'> Hello! 👋</h1> 
+<h2 align='center'> Hello! 👋</h2> 
 
 <br>
 
