@@ -9,24 +9,24 @@
 <br>
 
 ```python
-I am Kilala, a:
+I am Kilala, a;
 
     > MSc. in Data science student 
-        With interest in: 
+        With interest in; 
             ~ Machine learning, 
             ~ and Artificial intelligence.
           
-     > Full stack developer with experience in:
+     > Full stack developer with experience in;
         Front-end: HTML, CSS and JavaScript,
         Backend: C++, Flask and Django,
         Database: MySQL and SQL SERVER.
         
-     > Electronics and Telecommunication Engineer with experience in:
+     > Electronics and Telecommunication Engineer with experience in;
         ~ Robitics,
         ~ Data and Mobile communication,
         ~ Network administration.
 
-I love to learn about:
+I love to learn about;
     ~ Data science, 
     ~ Machine learning, 
     ~ Artificial intelligence,
