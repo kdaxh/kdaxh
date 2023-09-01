@@ -1,7 +1,5 @@
 <div align="center">
-    <img src ="https://github.com/kdaxh/My-Portfolio/blob/b19398c76697ea24073451cc80559836ee2cb238/kd-v1.png" />
-    
-    
+    <img src ="https://github.com/kdaxh/My-Portfolio/blob/b19398c76697ea24073451cc80559836ee2cb238/kd-v1.png" />   
 </div>
 
 <h2 align='center'> Hello! 👋</h2> 
@@ -9,7 +7,7 @@
 <br>
 
 ```python
-I am Kilala, a;
+I am Kilala, a:
 
     > MSc. in Data science student 
         With interest in: 
