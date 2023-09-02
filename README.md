@@ -4,8 +4,6 @@
 
 <h2 align='center'> Hello! 👋</h2> 
 
-<br>
-
 ```python
 I am Kilala, a:
 
