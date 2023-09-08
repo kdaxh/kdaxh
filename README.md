@@ -5,7 +5,7 @@
 <h2 align='center'> Hello! 👋</h2> 
 
 ```python
-I am Kilala, a;:
+I am Kilala, a:
 
     > MSc. in Data science student 
         With interest in: 
