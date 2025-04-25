@@ -15,7 +15,7 @@ I am Kilala, a:
      > Full stack developer with experience in:
         Front-end: HTML, CSS and JavaScript,
         Backend: C++, Flask and Django,
-        Database: MySQL and SQL SERVER.
+        Database: MySQL, SQL Server and PostgreSQL.
         
      > Electronics and Telecommunication Engineer with experience in:
         ~ Robitics,
