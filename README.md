@@ -7,8 +7,8 @@
 ```python
 I am Kilala, a:
 
-    > MSc. in Data science student 
-        With interest in: 
+    > Data scientist with interest in: 
+            ~ Statistics,
             ~ Machine learning, 
             ~ and Artificial intelligence.
           
