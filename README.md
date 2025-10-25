@@ -28,6 +28,6 @@ I love to learn about:
     ~ Artificial intelligence,
     ~ and Computer programming. 
 
-Let's share thoughts about education and inclusive job opportunities in tech!
+Let's share thoughts about Education and inclusive Job opportunities in tech!
 
 Welcome to my Github profile
